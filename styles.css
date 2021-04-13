@@ -1,0 +1,37 @@
+figure{
+    padding: 70px;
+    margin-right: 30%;
+    margin-left: 30%;
+    outline: green;
+    outline-style: dotted;
+}
+body{
+  background-color:ivory;
+  margin: 20px;
+}
+header{
+  margin-left: 40%
+}
+p{
+ text-align: center;
+ padding-right: 30%;
+ margin-left: 30%;
+}
+
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+  text-decoration-line: underline;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  
+}
+.France{
+  background-color: blue;
+}
+#Spain{
+  background-color: red;
+}
+.Italy{
+  background-color: green;
+}
